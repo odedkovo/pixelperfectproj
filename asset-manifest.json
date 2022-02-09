@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixelperfectproj/static/css/main.97ea3563.css",
-    "main.js": "/pixelperfectproj/static/js/main.ec02b231.js",
+    "main.js": "/pixelperfectproj/static/js/main.6ecafdbf.js",
     "static/js/787.28cb0dcd.chunk.js": "/pixelperfectproj/static/js/787.28cb0dcd.chunk.js",
     "static/media/Livvic-Regular.ttf": "/pixelperfectproj/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
     "static/media/user3.jpg": "/pixelperfectproj/static/media/user3.c881367c8bdedff68ebb.jpg",
@@ -18,11 +18,11 @@
     "static/media/facebook.svg": "/pixelperfectproj/static/media/facebook.aa554c39774fdcc69a00f5c9386f81cb.svg",
     "static/media/nav.svg": "/pixelperfectproj/static/media/nav.63b9af70e976c7fe079fcaa8671e1ed7.svg",
     "main.97ea3563.css.map": "/pixelperfectproj/static/css/main.97ea3563.css.map",
-    "main.ec02b231.js.map": "/pixelperfectproj/static/js/main.ec02b231.js.map",
+    "main.6ecafdbf.js.map": "/pixelperfectproj/static/js/main.6ecafdbf.js.map",
     "787.28cb0dcd.chunk.js.map": "/pixelperfectproj/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97ea3563.css",
-    "static/js/main.ec02b231.js"
+    "static/js/main.6ecafdbf.js"
   ]
 }
