@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+// @font-face {
+//   font-family: Livvic-regular;
+//   src: url('src\assets\font\Livvic\Livvic-Regular.ttf')
+// }
+
+@font-face {
+  font-family: 'Livvic - Semi Bold';
+  src: url(../../font/Livvic/Livvic-Regular.ttf);
+}
+// @font-face {
+//   font-family: 'Livvic - Bold';
+//   src: url(../../font/livvic/Livvic-Bold.ttf);
+// }
+// @font-face {
+//   font-family: 'Livvic - Medium Italic';
+//   src: url(../../font/livvic/Livvic-MediumItalic.ttf);
+// }
+
+body {
+  margin: 0 auto;
+
+  font-family: 'Livvic - Semi Bold';
+  // background-image: url('../../imgs/imgs/stars.jpg');
+  // background-repeat: no-repeat;
+  // background-size: 100% 100%;
+  // color: white;
+}
+
+h1 {
+  margin: 0;
+}

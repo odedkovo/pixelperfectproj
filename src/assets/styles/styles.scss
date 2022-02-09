@@ -1,0 +1,15 @@
+// Basic
+@import './basic/helpers.scss';
+@import 'basics/base.scss';
+@import 'basics/colors.scss';
+
+// Pages
+@import 'pages/homepage.scss';
+@import 'pages/secondPage.scss';
+
+// Components
+@import 'components/header.scss';
+@import 'components/center.scss';
+@import 'components/successStories.scss';
+@import 'components/getstarted.scss';
+@import 'components/footer.scss';

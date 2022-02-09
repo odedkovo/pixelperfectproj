@@ -1,0 +1,52 @@
+.footer {
+  height: 120px;
+  background-color: #002529;
+  width: 100%;
+  position: absolute;
+  color: white;
+  display: flex;
+  justify-content: center;
+
+  .main-content {
+    height: 100%;
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    // align-items: center;
+    .my-team {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      .home-about {
+        display: flex;
+        justify-content: flex-start;
+        gap: 50px;
+      }
+    }
+
+    .address {
+      width: 445px;
+      display: flex;
+      justify-content: flex-start;
+      font-size: 15px;
+      line-height: 25px;
+      align-self: center;
+      color: #979797;
+    }
+
+    .media {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      justify-content: space-around;
+      .media-logo {
+        display: flex;
+        gap: 8px;
+      }
+      .Copyright {
+        color: #979797;
+      }
+    }
+  }
+}
